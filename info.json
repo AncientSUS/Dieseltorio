@@ -4,6 +4,6 @@
   "title": "Dieseltorio",
   "author": "AncientElis",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
+  "dependencies": ["base >= 2.0", "! space-age", "! quality"],
   "description": "This mods adds dieselpunk like style game, lite rework gameplay"
 }
